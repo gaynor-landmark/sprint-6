@@ -1,0 +1,2 @@
+What happens to the layout when you resize the screen to less than 550 px. How do you think that works?
+  Skeleton is designed to be mobile first - which means that it is based around the minimum width of the device.  When any device/browser has a minumum width of less than 550px the element is no longer sized in proportion to the pixel width, but a single column element has the same width as a 12 column element ie. 100% 
